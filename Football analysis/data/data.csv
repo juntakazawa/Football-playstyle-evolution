@@ -1,0 +1,688 @@
+league,team,season,avg_possession_rate,avg_progressive_passes,position
+Bundesliga,Augsburg,2017-2018,45.71,33.59,12
+Bundesliga,Bayer Leverkusen,2017-2018,54.56,51.26,5
+Bundesliga,Bayern Munich,2017-2018,66.15,68.62,1
+Bundesliga,Dortmund,2017-2018,59.09,51.15,4
+Bundesliga,Eintracht Frankfurt,2017-2018,47.85,39.88,8
+Bundesliga,Freiburg,2017-2018,44.79,32.09,15
+Bundesliga,Hamburger SV,2017-2018,48.97,38.76,17
+Bundesliga,Hannover 96,2017-2018,46.91,37.97,13
+Bundesliga,Hertha BSC,2017-2018,46.06,35.85,10
+Bundesliga,Hoffenheim,2017-2018,51.24,40.18,3
+Bundesliga,Köln,2017-2018,47.44,41.15,18
+Bundesliga,Mainz 05,2017-2018,44.35,34.21,14
+Bundesliga,Mönchengladbach,2017-2018,51.97,40.94,9
+Bundesliga,RB Leipzig,2017-2018,54.97,47.12,6
+Bundesliga,Schalke 04,2017-2018,46.59,41.06,2
+Bundesliga,Stuttgart,2017-2018,46.65,33.56,7
+Bundesliga,Werder Bremen,2017-2018,47.41,43.44,11
+Bundesliga,Wolfsburg,2017-2018,49.29,39.32,16
+Bundesliga,Augsburg,2018-2019,46.38,34.65,15
+Bundesliga,Bayer Leverkusen,2018-2019,59.82,53.5,4
+Bundesliga,Bayern Munich,2018-2019,65.68,64.47,1
+Bundesliga,Dortmund,2018-2019,58.06,48.15,2
+Bundesliga,Düsseldorf,2018-2019,43.18,35.76,10
+Bundesliga,Eintracht Frankfurt,2018-2019,47.18,41.35,7
+Bundesliga,Freiburg,2018-2019,43.97,31.62,13
+Bundesliga,Hannover 96,2018-2019,46.32,34.71,17
+Bundesliga,Hertha BSC,2018-2019,47.91,39.35,11
+Bundesliga,Hoffenheim,2018-2019,53.79,50.5,9
+Bundesliga,Mainz 05,2018-2019,46.12,37.26,12
+Bundesliga,Mönchengladbach,2018-2019,53.06,46.29,5
+Bundesliga,Nürnberg,2018-2019,42.38,29.09,18
+Bundesliga,RB Leipzig,2018-2019,49.56,47.94,3
+Bundesliga,Schalke 04,2018-2019,45.41,35.0,14
+Bundesliga,Stuttgart,2018-2019,45.85,34.47,16
+Bundesliga,Werder Bremen,2018-2019,52.06,50.15,8
+Bundesliga,Wolfsburg,2018-2019,53.32,38.91,6
+Bundesliga,Augsburg,2019-2020,38.56,23.97,15
+Bundesliga,Bayer Leverkusen,2019-2020,63.24,43.85,5
+Bundesliga,Bayern Munich,2019-2020,65.12,68.15,1
+Bundesliga,Dortmund,2019-2020,60.41,54.53,2
+Bundesliga,Düsseldorf,2019-2020,45.62,39.32,17
+Bundesliga,Eintracht Frankfurt,2019-2020,50.91,44.41,9
+Bundesliga,Freiburg,2019-2020,48.09,36.21,8
+Bundesliga,Hertha BSC,2019-2020,44.74,32.62,10
+Bundesliga,Hoffenheim,2019-2020,51.65,38.41,6
+Bundesliga,Köln,2019-2020,46.74,34.41,14
+Bundesliga,Mainz 05,2019-2020,43.21,34.56,13
+Bundesliga,Mönchengladbach,2019-2020,52.38,38.85,4
+Bundesliga,Paderborn 07,2019-2020,45.91,30.41,18
+Bundesliga,RB Leipzig,2019-2020,55.26,51.35,3
+Bundesliga,Schalke 04,2019-2020,49.0,35.56,12
+Bundesliga,Union Berlin,2019-2020,41.94,30.79,11
+Bundesliga,Werder Bremen,2019-2020,48.82,39.0,16
+Bundesliga,Wolfsburg,2019-2020,48.41,39.59,7
+Bundesliga,Arminia,2020-2021,42.32,25.88,15
+Bundesliga,Augsburg,2020-2021,41.44,29.76,13
+Bundesliga,Bayer Leverkusen,2020-2021,59.68,45.5,6
+Bundesliga,Bayern Munich,2020-2021,60.68,61.29,1
+Bundesliga,Dortmund,2020-2021,59.59,53.18,3
+Bundesliga,Eintracht Frankfurt,2020-2021,53.71,52.03,5
+Bundesliga,Freiburg,2020-2021,47.29,35.32,10
+Bundesliga,Hertha BSC,2020-2021,49.56,35.06,14
+Bundesliga,Hoffenheim,2020-2021,51.18,48.12,11
+Bundesliga,Köln,2020-2021,46.32,33.76,16
+Bundesliga,Mainz 05,2020-2021,40.71,33.56,12
+Bundesliga,Mönchengladbach,2020-2021,51.74,41.32,8
+Bundesliga,RB Leipzig,2020-2021,59.68,53.74,2
+Bundesliga,Schalke 04,2020-2021,44.74,29.18,18
+Bundesliga,Stuttgart,2020-2021,51.5,46.24,9
+Bundesliga,Union Berlin,2020-2021,44.94,33.91,7
+Bundesliga,Werder Bremen,2020-2021,43.85,33.62,17
+Bundesliga,Wolfsburg,2020-2021,51.09,41.09,4
+Bundesliga,Arminia,2021-2022,40.74,26.12,17
+Bundesliga,Augsburg,2021-2022,41.53,28.82,14
+Bundesliga,Bayer Leverkusen,2021-2022,53.71,40.0,3
+Bundesliga,Bayern Munich,2021-2022,64.5,64.71,1
+Bundesliga,Bochum,2021-2022,44.67,28.27,13
+Bundesliga,Dortmund,2021-2022,59.24,44.76,2
+Bundesliga,Eintracht Frankfurt,2021-2022,49.65,41.85,10
+Bundesliga,Freiburg,2021-2022,49.03,36.79,6
+Bundesliga,Greuther Fürth,2021-2022,43.62,29.44,18
+Bundesliga,Hertha BSC,2021-2022,43.68,29.35,16
+Bundesliga,Hoffenheim,2021-2022,53.21,46.74,9
+Bundesliga,Köln,2021-2022,54.82,41.35,7
+Bundesliga,Mainz 05,2021-2022,46.53,40.21,8
+Bundesliga,Mönchengladbach,2021-2022,54.03,41.91,11
+Bundesliga,RB Leipzig,2021-2022,56.09,47.32,4
+Bundesliga,Stuttgart,2021-2022,50.74,40.12,15
+Bundesliga,Union Berlin,2021-2022,43.74,38.44,5
+Bundesliga,Wolfsburg,2021-2022,50.5,39.21,12
+Bundesliga,Augsburg,2022-2023,41.71,25.71,15
+Bundesliga,Bayer Leverkusen,2022-2023,52.03,37.5,6
+Bundesliga,Bayern Munich,2022-2023,64.21,60.68,1
+Bundesliga,Bochum,2022-2023,46.15,30.29,14
+Bundesliga,Dortmund,2022-2023,58.18,48.21,2
+Bundesliga,Eintracht Frankfurt,2022-2023,52.88,45.79,7
+Bundesliga,Freiburg,2022-2023,48.06,31.62,5
+Bundesliga,Hertha BSC,2022-2023,42.0,27.85,18
+Bundesliga,Hoffenheim,2022-2023,48.32,41.47,12
+Bundesliga,Köln,2022-2023,49.94,36.68,11
+Bundesliga,Mainz 05,2022-2023,44.76,41.26,9
+Bundesliga,Mönchengladbach,2022-2023,53.74,34.74,10
+Bundesliga,RB Leipzig,2022-2023,58.15,44.41,3
+Bundesliga,Schalke 04,2022-2023,45.97,27.79,17
+Bundesliga,Stuttgart,2022-2023,50.24,40.62,16
+Bundesliga,Union Berlin,2022-2023,43.82,35.65,4
+Bundesliga,Werder Bremen,2022-2023,49.29,37.79,13
+Bundesliga,Wolfsburg,2022-2023,50.56,39.12,8
+Bundesliga,Augsburg,2023-2024,43.85,34.41,11
+Bundesliga,Bayer Leverkusen,2023-2024,61.82,66.44,1
+Bundesliga,Bayern Munich,2023-2024,61.29,57.56,3
+Bundesliga,Bochum,2023-2024,46.65,35.32,16
+Bundesliga,Darmstadt 98,2023-2024,45.74,36.76,18
+Bundesliga,Dortmund,2023-2024,57.79,42.85,5
+Bundesliga,Eintracht Frankfurt,2023-2024,52.06,42.88,6
+Bundesliga,Freiburg,2023-2024,46.56,37.76,10
+Bundesliga,Heidenheim,2023-2024,42.47,28.91,8
+Bundesliga,Hoffenheim,2023-2024,49.53,44.44,7
+Bundesliga,Köln,2023-2024,46.47,31.94,17
+Bundesliga,Mainz 05,2023-2024,46.09,40.68,13
+Bundesliga,Mönchengladbach,2023-2024,46.76,38.71,14
+Bundesliga,RB Leipzig,2023-2024,55.32,46.26,4
+Bundesliga,Stuttgart,2023-2024,59.88,49.29,2
+Bundesliga,Union Berlin,2023-2024,42.91,39.24,15
+Bundesliga,Werder Bremen,2023-2024,46.82,38.59,9
+Bundesliga,Wolfsburg,2023-2024,47.97,37.24,12
+La Liga,Alavés,2017-2018,40.34,27.58,14
+La Liga,Athletic Club,2017-2018,49.58,40.71,16
+La Liga,Atlético Madrid,2017-2018,47.5,38.66,2
+La Liga,Barcelona,2017-2018,62.84,56.61,1
+La Liga,Celta Vigo,2017-2018,55.74,42.21,12
+La Liga,Deportivo La Coruña,2017-2018,46.76,38.87,18
+La Liga,Eibar,2017-2018,52.0,38.97,9
+La Liga,Espanyol,2017-2018,46.87,33.58,13
+La Liga,Getafe,2017-2018,40.18,28.74,8
+La Liga,Girona,2017-2018,46.82,36.45,10
+La Liga,Las Palmas,2017-2018,54.66,35.08,19
+La Liga,Leganés,2017-2018,42.97,29.24,17
+La Liga,Levante,2017-2018,42.79,33.84,15
+La Liga,Málaga,2017-2018,44.08,30.95,20
+La Liga,Real Betis,2017-2018,56.92,40.82,6
+La Liga,Real Madrid,2017-2018,60.18,62.71,3
+La Liga,Real Sociedad,2017-2018,56.47,42.24,11
+La Liga,Sevilla,2017-2018,54.34,48.0,7
+La Liga,Valencia,2017-2018,48.61,41.13,4
+La Liga,Villarreal,2017-2018,50.37,38.24,5
+La Liga,Alavés,2018-2019,42.74,29.29,11
+La Liga,Athletic Club,2018-2019,50.0,38.42,8
+La Liga,Atlético Madrid,2018-2019,49.21,36.47,2
+La Liga,Barcelona,2018-2019,64.39,55.61,1
+La Liga,Celta Vigo,2018-2019,51.58,34.32,16
+La Liga,Eibar,2018-2019,54.0,42.61,12
+La Liga,Espanyol,2018-2019,49.39,39.34,7
+La Liga,Getafe,2018-2019,40.74,29.76,6
+La Liga,Girona,2018-2019,47.97,37.71,18
+La Liga,Huesca,2018-2019,44.5,32.47,19
+La Liga,Leganés,2018-2019,43.05,31.89,13
+La Liga,Levante,2018-2019,45.66,37.34,15
+La Liga,Rayo Vallecano,2018-2019,48.68,35.53,20
+La Liga,Real Betis,2018-2019,61.84,46.21,10
+La Liga,Real Madrid,2018-2019,60.08,55.37,3
+La Liga,Real Sociedad,2018-2019,51.66,36.45,9
+La Liga,Sevilla,2018-2019,52.29,51.89,5
+La Liga,Valencia,2018-2019,47.08,41.08,4
+La Liga,Valladolid,2018-2019,46.84,34.76,17
+La Liga,Villarreal,2018-2019,48.32,44.55,14
+La Liga,Alavés,2019-2020,41.47,24.84,16
+La Liga,Athletic Club,2019-2020,48.66,34.45,11
+La Liga,Atlético Madrid,2019-2020,48.61,35.08,3
+La Liga,Barcelona,2019-2020,66.39,53.74,2
+La Liga,Celta Vigo,2019-2020,51.66,36.42,17
+La Liga,Eibar,2019-2020,46.34,33.29,14
+La Liga,Espanyol,2019-2020,47.37,33.39,20
+La Liga,Getafe,2019-2020,45.0,31.63,8
+La Liga,Granada,2019-2020,43.76,27.21,7
+La Liga,Leganés,2019-2020,43.89,31.68,18
+La Liga,Levante,2019-2020,48.29,35.74,12
+La Liga,Mallorca,2019-2020,44.97,31.92,19
+La Liga,Osasuna,2019-2020,47.45,35.76,10
+La Liga,Real Betis,2019-2020,56.68,39.32,15
+La Liga,Real Madrid,2019-2020,58.79,51.89,1
+La Liga,Real Sociedad,2019-2020,56.24,42.05,6
+La Liga,Sevilla,2019-2020,57.92,48.68,4
+La Liga,Valencia,2019-2020,49.0,36.26,9
+La Liga,Valladolid,2019-2020,44.66,29.11,13
+La Liga,Villarreal,2019-2020,52.89,39.03,5
+La Liga,Alavés,2020-2021,42.82,25.42,16
+La Liga,Athletic Club,2020-2021,49.89,39.37,9
+La Liga,Atlético Madrid,2020-2021,52.34,44.79,1
+La Liga,Barcelona,2020-2021,65.53,57.89,3
+La Liga,Celta Vigo,2020-2021,53.32,34.42,8
+La Liga,Cádiz,2020-2021,34.84,22.47,12
+La Liga,Eibar,2020-2021,49.29,34.16,20
+La Liga,Elche,2020-2021,47.5,25.29,17
+La Liga,Getafe,2020-2021,43.34,28.76,15
+La Liga,Granada,2020-2021,41.45,25.92,10
+La Liga,Huesca,2020-2021,48.34,33.42,18
+La Liga,Levante,2020-2021,52.18,41.29,14
+La Liga,Osasuna,2020-2021,43.24,32.11,11
+La Liga,Real Betis,2020-2021,53.58,37.92,6
+La Liga,Real Madrid,2020-2021,59.26,51.0,2
+La Liga,Real Sociedad,2020-2021,54.95,41.03,5
+La Liga,Sevilla,2020-2021,60.87,42.97,4
+La Liga,Valencia,2020-2021,46.87,31.47,13
+La Liga,Valladolid,2020-2021,45.16,29.11,19
+La Liga,Villarreal,2020-2021,55.24,43.16,7
+La Liga,Alavés,2021-2022,42.0,25.97,20
+La Liga,Athletic Club,2021-2022,48.11,41.37,8
+La Liga,Atlético Madrid,2021-2022,50.63,40.08,3
+La Liga,Barcelona,2021-2022,64.16,54.74,2
+La Liga,Celta Vigo,2021-2022,55.21,38.08,11
+La Liga,Cádiz,2021-2022,41.34,28.71,16
+La Liga,Elche,2021-2022,48.39,30.03,13
+La Liga,Espanyol,2021-2022,46.95,32.16,14
+La Liga,Getafe,2021-2022,41.5,25.08,15
+La Liga,Granada,2021-2022,44.71,27.55,18
+La Liga,Levante,2021-2022,47.16,36.21,19
+La Liga,Mallorca,2021-2022,45.29,29.79,17
+La Liga,Osasuna,2021-2022,46.87,35.11,10
+La Liga,Rayo Vallecano,2021-2022,49.89,34.53,12
+La Liga,Real Betis,2021-2022,53.68,39.95,5
+La Liga,Real Madrid,2021-2022,59.95,54.68,1
+La Liga,Real Sociedad,2021-2022,54.34,38.61,6
+La Liga,Sevilla,2021-2022,59.45,42.37,4
+La Liga,Valencia,2021-2022,43.58,32.37,9
+La Liga,Villarreal,2021-2022,56.79,44.68,7
+La Liga,Almería,2022-2023,45.11,28.95,17
+La Liga,Athletic Club,2022-2023,51.58,47.79,8
+La Liga,Atlético Madrid,2022-2023,50.63,41.97,3
+La Liga,Barcelona,2022-2023,64.26,57.42,1
+La Liga,Celta Vigo,2022-2023,50.21,37.16,13
+La Liga,Cádiz,2022-2023,41.89,25.5,16
+La Liga,Elche,2022-2023,45.5,31.79,20
+La Liga,Espanyol,2022-2023,43.11,30.53,19
+La Liga,Getafe,2022-2023,39.92,26.55,15
+La Liga,Girona,2022-2023,51.32,36.89,10
+La Liga,Mallorca,2022-2023,41.05,25.34,9
+La Liga,Osasuna,2022-2023,48.03,35.68,7
+La Liga,Rayo Vallecano,2022-2023,51.16,36.58,12
+La Liga,Real Betis,2022-2023,50.55,33.47,6
+La Liga,Real Madrid,2022-2023,60.89,53.08,2
+La Liga,Real Sociedad,2022-2023,54.61,39.03,4
+La Liga,Sevilla,2022-2023,52.63,41.34,11
+La Liga,Valencia,2022-2023,52.03,38.82,14
+La Liga,Valladolid,2022-2023,48.68,33.53,18
+La Liga,Villarreal,2022-2023,56.87,42.68,5
+La Liga,Alavés,2023-2024,41.79,33.16,10
+La Liga,Almería,2023-2024,46.37,28.97,19
+La Liga,Athletic Club,2023-2024,49.84,42.37,5
+La Liga,Atlético Madrid,2023-2024,50.84,45.53,4
+La Liga,Barcelona,2023-2024,64.29,50.89,2
+La Liga,Celta Vigo,2023-2024,46.13,36.11,14
+La Liga,Cádiz,2023-2024,43.26,26.76,18
+La Liga,Getafe,2023-2024,44.82,30.03,12
+La Liga,Girona,2023-2024,56.95,45.92,3
+La Liga,Granada,2023-2024,45.58,27.47,20
+La Liga,Las Palmas,2023-2024,59.21,42.0,16
+La Liga,Mallorca,2023-2024,44.97,31.08,15
+La Liga,Osasuna,2023-2024,47.53,35.58,11
+La Liga,Rayo Vallecano,2023-2024,49.39,35.34,17
+La Liga,Real Betis,2023-2024,50.37,37.92,7
+La Liga,Real Madrid,2023-2024,59.24,50.92,1
+La Liga,Real Sociedad,2023-2024,55.29,37.32,6
+La Liga,Sevilla,2023-2024,50.29,38.5,13
+La Liga,Valencia,2023-2024,44.26,30.58,9
+La Liga,Villarreal,2023-2024,49.61,41.0,8
+Ligue 1,Amiens,2017-2018,43.26,31.0,13
+Ligue 1,Angers,2017-2018,45.11,37.63,14
+Ligue 1,Bordeaux,2017-2018,50.61,39.5,6
+Ligue 1,Caen,2017-2018,45.47,41.79,16
+Ligue 1,Dijon,2017-2018,48.42,35.16,11
+Ligue 1,Guingamp,2017-2018,49.68,39.97,12
+Ligue 1,Lille,2017-2018,53.76,41.61,17
+Ligue 1,Lyon,2017-2018,55.61,43.95,3
+Ligue 1,Marseille,2017-2018,57.76,41.74,4
+Ligue 1,Metz,2017-2018,45.53,39.95,20
+Ligue 1,Monaco,2017-2018,50.95,45.84,2
+Ligue 1,Montpellier,2017-2018,47.0,44.97,10
+Ligue 1,Nantes,2017-2018,43.74,37.32,9
+Ligue 1,Nice,2017-2018,58.05,43.13,8
+Ligue 1,Paris Saint-Germain,2017-2018,66.34,54.42,1
+Ligue 1,Rennes,2017-2018,49.89,39.61,5
+Ligue 1,Saint-Étienne,2017-2018,51.34,41.08,7
+Ligue 1,Strasbourg,2017-2018,49.13,33.92,15
+Ligue 1,Toulouse,2017-2018,45.71,38.76,18
+Ligue 1,Troyes,2017-2018,42.63,35.08,19
+Ligue 1,Amiens,2018-2019,46.5,33.89,15
+Ligue 1,Angers,2018-2019,43.32,35.53,13
+Ligue 1,Bordeaux,2018-2019,50.13,36.5,14
+Ligue 1,Caen,2018-2019,44.03,26.89,19
+Ligue 1,Dijon,2018-2019,47.87,35.53,18
+Ligue 1,Guingamp,2018-2019,44.11,36.79,20
+Ligue 1,Lille,2018-2019,51.39,38.45,2
+Ligue 1,Lyon,2018-2019,60.39,56.84,3
+Ligue 1,Marseille,2018-2019,55.18,39.16,5
+Ligue 1,Monaco,2018-2019,49.82,43.55,17
+Ligue 1,Montpellier,2018-2019,47.97,45.58,6
+Ligue 1,Nantes,2018-2019,50.11,39.58,12
+Ligue 1,Nice,2018-2019,54.84,42.37,7
+Ligue 1,Nîmes,2018-2019,45.66,32.34,9
+Ligue 1,Paris Saint-Germain,2018-2019,63.71,60.5,1
+Ligue 1,Reims,2018-2019,43.63,33.21,8
+Ligue 1,Rennes,2018-2019,50.63,40.08,10
+Ligue 1,Saint-Étienne,2018-2019,52.47,42.45,4
+Ligue 1,Strasbourg,2018-2019,50.08,42.87,11
+Ligue 1,Toulouse,2018-2019,48.16,39.29,16
+Ligue 1,Amiens,2019-2020,45.64,36.18,19
+Ligue 1,Angers,2019-2020,45.25,38.86,9
+Ligue 1,Bordeaux,2019-2020,53.64,39.54,12
+Ligue 1,Brest,2019-2020,49.82,40.64,14
+Ligue 1,Dijon,2019-2020,46.5,32.75,16
+Ligue 1,Lille,2019-2020,52.86,38.5,4
+Ligue 1,Lyon,2019-2020,55.44,42.74,11
+Ligue 1,Marseille,2019-2020,53.5,39.54,2
+Ligue 1,Metz,2019-2020,45.29,30.25,15
+Ligue 1,Monaco,2019-2020,50.86,49.68,8
+Ligue 1,Montpellier,2019-2020,47.61,44.5,7
+Ligue 1,Nantes,2019-2020,48.0,36.93,13
+Ligue 1,Nice,2019-2020,54.64,45.36,6
+Ligue 1,Nîmes,2019-2020,45.81,35.19,18
+Ligue 1,Paris Saint-Germain,2019-2020,65.22,62.33,1
+Ligue 1,Reims,2019-2020,48.89,37.21,5
+Ligue 1,Rennes,2019-2020,49.64,33.43,3
+Ligue 1,Saint-Étienne,2019-2020,48.18,37.32,17
+Ligue 1,Strasbourg,2019-2020,49.59,38.89,10
+Ligue 1,Toulouse,2019-2020,44.21,33.89,20
+Ligue 1,Angers,2020-2021,46.39,37.84,13
+Ligue 1,Bordeaux,2020-2021,49.79,35.0,12
+Ligue 1,Brest,2020-2021,49.32,37.84,17
+Ligue 1,Dijon,2020-2021,46.24,31.89,20
+Ligue 1,Lens,2020-2021,51.11,46.32,7
+Ligue 1,Lille,2020-2021,53.82,43.82,1
+Ligue 1,Lorient,2020-2021,44.55,31.71,16
+Ligue 1,Lyon,2020-2021,54.87,53.16,4
+Ligue 1,Marseille,2020-2021,53.55,40.34,5
+Ligue 1,Metz,2020-2021,45.24,33.82,10
+Ligue 1,Monaco,2020-2021,55.79,46.97,3
+Ligue 1,Montpellier,2020-2021,45.66,35.71,8
+Ligue 1,Nantes,2020-2021,43.92,35.63,18
+Ligue 1,Nice,2020-2021,54.32,40.53,9
+Ligue 1,Nîmes,2020-2021,44.39,31.58,19
+Ligue 1,Paris Saint-Germain,2020-2021,63.11,55.53,2
+Ligue 1,Reims,2020-2021,44.87,32.79,14
+Ligue 1,Rennes,2020-2021,59.11,49.66,6
+Ligue 1,Saint-Étienne,2020-2021,48.29,32.66,11
+Ligue 1,Strasbourg,2020-2021,45.71,34.97,15
+Ligue 1,Angers,2021-2022,48.42,39.05,14
+Ligue 1,Bordeaux,2021-2022,47.45,35.97,20
+Ligue 1,Brest,2021-2022,43.92,35.61,11
+Ligue 1,Clermont Foot,2021-2022,50.03,36.05,17
+Ligue 1,Lens,2021-2022,50.68,50.26,8
+Ligue 1,Lille,2021-2022,50.82,39.16,10
+Ligue 1,Lorient,2021-2022,44.42,33.97,16
+Ligue 1,Lyon,2021-2022,58.45,46.97,7
+Ligue 1,Marseille,2021-2022,61.68,49.32,2
+Ligue 1,Metz,2021-2022,42.89,29.68,19
+Ligue 1,Monaco,2021-2022,54.08,49.61,3
+Ligue 1,Montpellier,2021-2022,48.21,34.18,13
+Ligue 1,Nantes,2021-2022,43.95,35.95,9
+Ligue 1,Nice,2021-2022,51.47,38.79,4
+Ligue 1,Paris Saint-Germain,2021-2022,63.0,54.39,1
+Ligue 1,Reims,2021-2022,42.21,34.16,12
+Ligue 1,Rennes,2021-2022,55.95,45.71,5
+Ligue 1,Saint-Étienne,2021-2022,48.5,39.95,18
+Ligue 1,Strasbourg,2021-2022,49.5,45.55,6
+Ligue 1,Troyes,2021-2022,44.37,33.79,15
+Ligue 1,Ajaccio,2022-2023,43.21,30.76,18
+Ligue 1,Angers,2022-2023,46.89,36.68,20
+Ligue 1,Auxerre,2022-2023,43.29,35.53,17
+Ligue 1,Brest,2022-2023,44.95,34.5,14
+Ligue 1,Clermont Foot,2022-2023,48.26,38.66,8
+Ligue 1,Lens,2022-2023,55.58,51.74,2
+Ligue 1,Lille,2022-2023,60.47,52.58,5
+Ligue 1,Lorient,2022-2023,46.58,35.84,10
+Ligue 1,Lyon,2022-2023,58.05,50.63,7
+Ligue 1,Marseille,2022-2023,56.66,58.87,3
+Ligue 1,Monaco,2022-2023,48.24,48.66,6
+Ligue 1,Montpellier,2022-2023,45.76,32.92,12
+Ligue 1,Nantes,2022-2023,45.92,42.11,16
+Ligue 1,Nice,2022-2023,51.5,41.45,9
+Ligue 1,Paris Saint-Germain,2022-2023,60.71,56.58,1
+Ligue 1,Reims,2022-2023,48.71,46.89,11
+Ligue 1,Rennes,2022-2023,55.42,50.58,4
+Ligue 1,Strasbourg,2022-2023,45.92,39.26,15
+Ligue 1,Toulouse,2022-2023,51.29,45.79,13
+Ligue 1,Troyes,2022-2023,42.58,34.84,19
+Ligue 1,Brest,2023-2024,53.65,41.24,3
+Ligue 1,Clermont Foot,2023-2024,48.91,39.94,18
+Ligue 1,Le Havre,2023-2024,44.71,36.56,15
+Ligue 1,Lens,2023-2024,52.88,55.41,7
+Ligue 1,Lille,2023-2024,56.62,43.18,4
+Ligue 1,Lorient,2023-2024,46.29,42.26,16
+Ligue 1,Lyon,2023-2024,51.82,48.56,6
+Ligue 1,Marseille,2023-2024,53.68,48.82,8
+Ligue 1,Metz,2023-2024,35.56,26.76,17
+Ligue 1,Monaco,2023-2024,53.65,54.21,2
+Ligue 1,Montpellier,2023-2024,44.65,34.53,12
+Ligue 1,Nantes,2023-2024,44.79,38.59,14
+Ligue 1,Nice,2023-2024,52.38,37.29,5
+Ligue 1,Paris Saint-Germain,2023-2024,65.21,56.71,1
+Ligue 1,Reims,2023-2024,50.41,42.68,9
+Ligue 1,Rennes,2023-2024,52.15,49.06,10
+Ligue 1,Strasbourg,2023-2024,44.32,34.97,13
+Ligue 1,Toulouse,2023-2024,48.35,43.79,11
+Premier League,Arsenal,2017-2018,61.45,62.53,6
+Premier League,Bournemouth,2017-2018,48.11,40.84,12
+Premier League,Brighton & Hove Albion,2017-2018,43.66,32.37,15
+Premier League,Burnley,2017-2018,43.74,29.03,7
+Premier League,Chelsea,2017-2018,55.63,57.58,5
+Premier League,Crystal Palace,2017-2018,45.24,34.84,11
+Premier League,Everton,2017-2018,45.53,31.71,8
+Premier League,Huddersfield Town,2017-2018,45.68,32.13,16
+Premier League,Leicester City,2017-2018,47.97,33.47,9
+Premier League,Liverpool,2017-2018,60.26,59.18,4
+Premier League,Manchester City,2017-2018,70.97,67.74,1
+Premier League,Manchester United,2017-2018,54.71,41.68,2
+Premier League,Newcastle United,2017-2018,41.71,30.5,10
+Premier League,Southampton,2017-2018,51.34,43.47,17
+Premier League,Stoke City,2017-2018,41.42,31.84,19
+Premier League,Swansea City,2017-2018,45.32,32.13,18
+Premier League,Tottenham Hotspur,2017-2018,61.79,62.03,3
+Premier League,Watford,2017-2018,49.68,40.11,14
+Premier League,West Bromwich Albion,2017-2018,40.66,30.0,20
+Premier League,West Ham United,2017-2018,45.18,34.47,13
+Premier League,Arsenal,2018-2019,58.13,51.05,5
+Premier League,Bournemouth,2018-2019,46.92,38.45,14
+Premier League,Brighton & Hove Albion,2018-2019,42.45,30.26,17
+Premier League,Burnley,2018-2019,41.24,27.16,15
+Premier League,Cardiff City,2018-2019,35.39,24.39,18
+Premier League,Chelsea,2018-2019,62.95,56.71,3
+Premier League,Crystal Palace,2018-2019,45.21,38.37,12
+Premier League,Everton,2018-2019,51.5,42.03,8
+Premier League,Fulham,2018-2019,48.76,39.13,19
+Premier League,Huddersfield Town,2018-2019,47.18,34.16,20
+Premier League,Leicester City,2018-2019,50.92,40.82,9
+Premier League,Liverpool,2018-2019,61.84,52.84,2
+Premier League,Manchester City,2018-2019,67.92,63.92,1
+Premier League,Manchester United,2018-2019,54.68,45.03,6
+Premier League,Newcastle United,2018-2019,40.45,26.24,13
+Premier League,Southampton,2018-2019,43.39,37.21,16
+Premier League,Tottenham Hotspur,2018-2019,58.97,47.21,4
+Premier League,Watford,2018-2019,46.68,34.37,11
+Premier League,West Ham United,2018-2019,48.55,38.89,10
+Premier League,Wolverhampton Wanderers,2018-2019,46.84,40.47,7
+Premier League,Arsenal,2019-2020,53.76,43.5,8
+Premier League,Aston Villa,2019-2020,44.11,33.08,17
+Premier League,Bournemouth,2019-2020,44.11,33.47,18
+Premier League,Brighton & Hove Albion,2019-2020,52.18,44.87,15
+Premier League,Burnley,2019-2020,41.92,23.42,10
+Premier League,Chelsea,2019-2020,60.42,51.26,4
+Premier League,Crystal Palace,2019-2020,44.82,32.18,14
+Premier League,Everton,2019-2020,49.03,37.95,12
+Premier League,Leicester City,2019-2020,57.05,43.08,5
+Premier League,Liverpool,2019-2020,62.89,51.08,1
+Premier League,Manchester City,2019-2020,66.24,65.18,2
+Premier League,Manchester United,2019-2020,55.82,47.45,3
+Premier League,Newcastle United,2019-2020,38.97,23.55,13
+Premier League,Norwich City,2019-2020,49.29,30.84,20
+Premier League,Sheffield United,2019-2020,43.13,43.0,9
+Premier League,Southampton,2019-2020,48.89,36.0,11
+Premier League,Tottenham Hotspur,2019-2020,52.0,37.34,6
+Premier League,Watford,2019-2020,42.95,31.0,19
+Premier League,West Ham United,2019-2020,44.13,36.32,16
+Premier League,Wolverhampton Wanderers,2019-2020,48.34,38.08,7
+Premier League,Arsenal,2020-2021,53.5,46.39,8
+Premier League,Aston Villa,2020-2021,48.47,37.37,11
+Premier League,Brighton & Hove Albion,2020-2021,51.08,45.21,16
+Premier League,Burnley,2020-2021,42.08,26.63,17
+Premier League,Chelsea,2020-2021,60.89,51.29,4
+Premier League,Crystal Palace,2020-2021,40.58,29.79,14
+Premier League,Everton,2020-2021,46.45,31.45,10
+Premier League,Fulham,2020-2021,49.66,37.18,18
+Premier League,Leeds United,2020-2021,57.29,43.13,9
+Premier League,Leicester City,2020-2021,54.29,41.11,5
+Premier League,Liverpool,2020-2021,62.05,54.13,3
+Premier League,Manchester City,2020-2021,63.5,54.16,1
+Premier League,Manchester United,2020-2021,55.71,48.21,2
+Premier League,Newcastle United,2020-2021,38.79,23.79,12
+Premier League,Sheffield United,2020-2021,41.66,36.08,20
+Premier League,Southampton,2020-2021,51.97,31.5,15
+Premier League,Tottenham Hotspur,2020-2021,51.55,35.13,7
+Premier League,West Bromwich Albion,2020-2021,37.95,27.71,19
+Premier League,West Ham United,2020-2021,43.21,35.03,6
+Premier League,Wolverhampton Wanderers,2020-2021,49.34,36.26,13
+Premier League,Arsenal,2021-2022,52.76,43.58,5
+Premier League,Aston Villa,2021-2022,46.47,34.79,14
+Premier League,Brentford,2021-2022,44.76,34.76,13
+Premier League,Brighton & Hove Albion,2021-2022,54.39,42.97,9
+Premier League,Burnley,2021-2022,40.16,25.58,18
+Premier League,Chelsea,2021-2022,61.76,59.87,3
+Premier League,Crystal Palace,2021-2022,51.08,32.34,12
+Premier League,Everton,2021-2022,40.0,29.18,16
+Premier League,Leeds United,2021-2022,52.34,39.03,17
+Premier League,Leicester City,2021-2022,52.0,36.66,8
+Premier League,Liverpool,2021-2022,62.66,59.03,2
+Premier League,Manchester City,2021-2022,67.95,63.71,1
+Premier League,Manchester United,2021-2022,52.68,41.37,6
+Premier League,Newcastle United,2021-2022,40.42,24.47,11
+Premier League,Norwich City,2021-2022,42.87,27.39,20
+Premier League,Southampton,2021-2022,47.68,35.47,15
+Premier League,Tottenham Hotspur,2021-2022,51.84,40.76,4
+Premier League,Watford,2021-2022,40.71,28.32,19
+Premier League,West Ham United,2021-2022,47.92,38.84,7
+Premier League,Wolverhampton Wanderers,2021-2022,49.53,37.0,10
+Premier League,Arsenal,2022-2023,59.32,53.92,2
+Premier League,Aston Villa,2022-2023,49.26,32.68,7
+Premier League,Bournemouth,2022-2023,40.42,27.61,15
+Premier League,Brentford,2022-2023,43.84,30.84,9
+Premier League,Brighton & Hove Albion,2022-2023,60.24,50.82,6
+Premier League,Chelsea,2022-2023,58.66,47.82,12
+Premier League,Crystal Palace,2022-2023,46.34,32.71,11
+Premier League,Everton,2022-2023,42.76,28.47,17
+Premier League,Fulham,2022-2023,48.76,34.95,10
+Premier League,Leeds United,2022-2023,46.97,37.68,19
+Premier League,Leicester City,2022-2023,47.71,34.61,18
+Premier League,Liverpool,2022-2023,60.82,52.42,5
+Premier League,Manchester City,2022-2023,64.74,54.74,1
+Premier League,Manchester United,2022-2023,53.71,41.97,3
+Premier League,Newcastle United,2022-2023,52.26,42.58,4
+Premier League,Nottingham Forest,2022-2023,37.61,23.92,16
+Premier League,Southampton,2022-2023,44.53,30.42,20
+Premier League,Tottenham Hotspur,2022-2023,50.03,42.5,8
+Premier League,West Ham United,2022-2023,42.11,34.74,14
+Premier League,Wolverhampton Wanderers,2022-2023,49.95,36.08,13
+Premier League,Arsenal,2023-2024,58.18,55.45,2
+Premier League,Aston Villa,2023-2024,53.11,38.37,4
+Premier League,Bournemouth,2023-2024,44.39,34.58,13
+Premier League,Brentford,2023-2024,45.16,35.42,16
+Premier League,Brighton & Hove Albion,2023-2024,59.84,47.39,11
+Premier League,Burnley,2023-2024,47.37,31.21,19
+Premier League,Chelsea,2023-2024,58.61,43.29,6
+Premier League,Crystal Palace,2023-2024,42.29,32.34,10
+Premier League,Everton,2023-2024,40.84,29.71,12
+Premier League,Fulham,2023-2024,50.61,38.74,14
+Premier League,Liverpool,2023-2024,61.26,55.53,3
+Premier League,Luton Town,2023-2024,42.37,33.53,18
+Premier League,Manchester City,2023-2024,65.21,54.42,1
+Premier League,Manchester United,2023-2024,50.58,38.92,8
+Premier League,Newcastle United,2023-2024,52.21,41.05,7
+Premier League,Nottingham Forest,2023-2024,40.58,30.53,17
+Premier League,Sheffield United,2023-2024,35.84,26.11,20
+Premier League,Tottenham Hotspur,2023-2024,61.58,55.45,5
+Premier League,West Ham United,2023-2024,41.11,31.92,9
+Premier League,Wolverhampton Wanderers,2023-2024,48.87,34.63,15
+Serie A,Atalanta,2017-2018,55.42,59.29,7
+Serie A,Benevento,2017-2018,47.47,32.68,20
+Serie A,Bologna,2017-2018,46.84,36.47,15
+Serie A,Cagliari,2017-2018,45.34,39.42,16
+Serie A,Chievo,2017-2018,44.42,36.55,14
+Serie A,Crotone,2017-2018,39.89,33.05,18
+Serie A,Fiorentina,2017-2018,52.55,45.58,8
+Serie A,Genoa,2017-2018,46.29,44.29,12
+Serie A,Hellas Verona,2017-2018,41.92,28.34,19
+Serie A,Internazionale,2017-2018,57.13,49.55,5
+Serie A,Juventus,2017-2018,57.24,46.16,1
+Serie A,Lazio,2017-2018,51.13,52.68,4
+Serie A,Milan,2017-2018,55.97,54.76,6
+Serie A,Napoli,2017-2018,63.42,64.95,2
+Serie A,Roma,2017-2018,58.03,52.42,3
+Serie A,SPAL,2017-2018,44.66,36.71,17
+Serie A,Sampdoria,2017-2018,53.55,42.82,10
+Serie A,Sassuolo,2017-2018,42.92,41.16,11
+Serie A,Torino,2017-2018,51.11,39.29,9
+Serie A,Udinese,2017-2018,44.68,39.55,13
+Serie A,Atalanta,2018-2019,57.32,59.29,3
+Serie A,Bologna,2018-2019,44.92,37.32,10
+Serie A,Cagliari,2018-2019,49.84,34.08,15
+Serie A,Chievo,2018-2019,43.32,34.03,20
+Serie A,Empoli,2018-2019,47.92,43.89,18
+Serie A,Fiorentina,2018-2019,50.39,41.37,14
+Serie A,Frosinone,2018-2019,41.53,35.89,19
+Serie A,Genoa,2018-2019,43.42,36.03,17
+Serie A,Internazionale,2018-2019,59.45,51.24,4
+Serie A,Juventus,2018-2019,55.95,50.71,1
+Serie A,Lazio,2018-2019,50.82,52.11,8
+Serie A,Milan,2018-2019,54.11,46.58,5
+Serie A,Napoli,2018-2019,59.08,55.16,2
+Serie A,Parma,2018-2019,37.71,26.71,16
+Serie A,Roma,2018-2019,51.42,44.37,6
+Serie A,SPAL,2018-2019,50.42,37.37,13
+Serie A,Sampdoria,2018-2019,54.95,44.34,9
+Serie A,Sassuolo,2018-2019,53.76,40.11,11
+Serie A,Torino,2018-2019,51.08,44.68,7
+Serie A,Udinese,2018-2019,42.61,32.58,12
+Serie A,Atalanta,2019-2020,57.35,55.59,3
+Serie A,Bologna,2019-2020,52.51,44.59,12
+Serie A,Brescia,2019-2020,40.24,33.0,19
+Serie A,Cagliari,2019-2020,45.92,36.19,13
+Serie A,Fiorentina,2019-2020,47.32,43.0,10
+Serie A,Genoa,2019-2020,49.92,37.7,17
+Serie A,Hellas Verona,2019-2020,49.41,49.46,9
+Serie A,Internazionale,2019-2020,54.38,55.86,2
+Serie A,Juventus,2019-2020,58.11,46.11,1
+Serie A,Lazio,2019-2020,50.54,47.76,4
+Serie A,Lecce,2019-2020,44.62,35.19,18
+Serie A,Milan,2019-2020,54.73,44.95,6
+Serie A,Napoli,2019-2020,59.3,53.3,7
+Serie A,Parma,2019-2020,43.65,32.7,11
+Serie A,Roma,2019-2020,52.95,44.89,5
+Serie A,SPAL,2019-2020,46.76,36.05,20
+Serie A,Sampdoria,2019-2020,42.59,36.78,15
+Serie A,Sassuolo,2019-2020,57.16,41.54,8
+Serie A,Torino,2019-2020,47.49,38.05,16
+Serie A,Udinese,2019-2020,45.05,40.22,14
+Serie A,Atalanta,2020-2021,54.56,62.92,4
+Serie A,Benevento,2020-2021,42.61,30.11,18
+Serie A,Bologna,2020-2021,50.9,40.36,14
+Serie A,Brescia,2020-2021,52.0,45.0,21
+Serie A,Cagliari,2020-2021,44.56,34.28,17
+Serie A,Crotone,2020-2021,46.26,35.84,20
+Serie A,Fiorentina,2020-2021,46.36,41.97,11
+Serie A,Genoa,2020-2021,44.56,33.0,10
+Serie A,Hellas Verona,2020-2021,50.18,49.97,13
+Serie A,Internazionale,2020-2021,52.33,49.92,1
+Serie A,Juventus,2020-2021,56.92,47.72,5
+Serie A,Lazio,2020-2021,52.77,47.31,6
+Serie A,Lecce,2020-2021,51.0,54.0,22
+Serie A,Milan,2020-2021,51.97,39.41,2
+Serie A,Napoli,2020-2021,55.1,45.0,3
+Serie A,Parma,2020-2021,47.82,35.28,19
+Serie A,Roma,2020-2021,52.0,47.76,7
+Serie A,SPAL,2020-2021,51.0,27.0,23
+Serie A,Sampdoria,2020-2021,45.28,36.31,9
+Serie A,Sassuolo,2020-2021,60.51,46.33,8
+Serie A,Spezia,2020-2021,51.87,36.53,15
+Serie A,Torino,2020-2021,47.23,34.08,16
+Serie A,Udinese,2020-2021,45.9,43.21,12
+Serie A,Atalanta,2021-2022,54.97,54.95,8
+Serie A,Bologna,2021-2022,50.61,37.39,13
+Serie A,Cagliari,2021-2022,44.47,31.84,18
+Serie A,Empoli,2021-2022,47.39,38.87,14
+Serie A,Fiorentina,2021-2022,57.71,41.68,7
+Serie A,Genoa,2021-2022,43.92,30.42,19
+Serie A,Hellas Verona,2021-2022,50.58,51.0,9
+Serie A,Internazionale,2021-2022,56.5,53.53,2
+Serie A,Juventus,2021-2022,51.53,38.79,4
+Serie A,Lazio,2021-2022,55.37,40.18,5
+Serie A,Milan,2021-2022,54.03,39.11,1
+Serie A,Napoli,2021-2022,58.34,43.92,3
+Serie A,Roma,2021-2022,51.37,45.74,6
+Serie A,Salernitana,2021-2022,41.21,29.18,17
+Serie A,Sampdoria,2021-2022,46.13,31.32,15
+Serie A,Sassuolo,2021-2022,54.89,39.66,11
+Serie A,Spezia,2021-2022,42.74,26.79,16
+Serie A,Torino,2021-2022,53.26,42.66,10
+Serie A,Udinese,2021-2022,42.68,37.24,12
+Serie A,Venezia,2021-2022,42.29,29.18,20
+Serie A,Atalanta,2022-2023,49.95,50.63,6
+Serie A,Bologna,2022-2023,54.74,37.16,9
+Serie A,Cremonese,2022-2023,42.11,32.87,19
+Serie A,Empoli,2022-2023,47.26,29.32,14
+Serie A,Fiorentina,2022-2023,56.11,42.82,8
+Serie A,Hellas Verona,2022-2023,41.21,33.32,17
+Serie A,Internazionale,2022-2023,55.74,48.45,3
+Serie A,Juventus,2022-2023,49.55,41.13,4
+Serie A,Lazio,2022-2023,52.11,36.34,2
+Serie A,Lecce,2022-2023,41.29,32.42,16
+Serie A,Milan,2022-2023,55.58,42.82,5
+Serie A,Monza,2022-2023,55.21,41.11,11
+Serie A,Napoli,2022-2023,61.76,47.47,1
+Serie A,Roma,2022-2023,48.58,37.71,7
+Serie A,Salernitana,2022-2023,44.92,34.58,15
+Serie A,Sampdoria,2022-2023,46.13,32.5,20
+Serie A,Sassuolo,2022-2023,49.18,41.18,13
+Serie A,Spezia,2022-2023,47.42,34.13,18
+Serie A,Torino,2022-2023,53.16,43.97,10
+Serie A,Udinese,2022-2023,48.0,42.71,12
+Serie A,Atalanta,2023-2024,51.03,54.0,4
+Serie A,Bologna,2023-2024,58.13,38.24,5
+Serie A,Cagliari,2023-2024,42.08,30.37,17
+Serie A,Empoli,2023-2024,43.97,29.82,16
+Serie A,Fiorentina,2023-2024,57.39,43.58,8
+Serie A,Frosinone,2023-2024,49.68,36.89,18
+Serie A,Genoa,2023-2024,44.05,32.37,11
+Serie A,Hellas Verona,2023-2024,44.39,31.58,13
+Serie A,Internazionale,2023-2024,57.08,48.89,1
+Serie A,Juventus,2023-2024,48.53,43.95,3
+Serie A,Lazio,2023-2024,53.32,41.45,7
+Serie A,Lecce,2023-2024,44.87,31.13,14
+Serie A,Milan,2023-2024,56.92,41.29,2
+Serie A,Monza,2023-2024,53.47,36.92,12
+Serie A,Napoli,2023-2024,60.95,46.84,9
+Serie A,Roma,2023-2024,54.92,41.87,6
+Serie A,Salernitana,2023-2024,44.5,32.32,20
+Serie A,Sassuolo,2023-2024,43.76,34.71,19
+Serie A,Torino,2023-2024,51.63,41.71,10
+Serie A,Udinese,2023-2024,39.34,31.87,15

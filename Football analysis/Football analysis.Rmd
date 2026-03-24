@@ -1,0 +1,148 @@
+---
+title: "Play style evolution of the top 4 teams in Europe"
+author: "JT"
+output:
+  html_document:
+    theme: flatly
+    toc: true
+    toc_float: true
+    code_folding: show
+---
+
+A vibecoding project on visualising how the playstyle of the top four teams in the major European leagues (that compete in the Champions league) have evolved since 2017.
+
+Let us first install and load the libraries needed.
+```{r packages} 
+# install.packages(c("tidyverse", "gganimate", "gifski"))
+
+library(tidyverse)
+library(gganimate)
+library(gifski)
+```
+
+# 1. Loading the data
+
+I have already saved the data from the previous exercise of using python and the premier_league library, so let us load that up. 
+
+```{r data}
+file_path <- "data/data.csv"
+df <- read.csv(file_path)
+```
+
+# 2. The dataset
+
+Instead of simply filtering to top 4, we keep ALL season data for any team that was ever in the top 4. We then flag each row as top 4 or not, and map that to alpha. This way gganimate can interpolate positions for teams entering or exiting the top 4 — they slide smoothly while fading in/out.
+
+```{r filter}
+# Identify every team that finished top 4 in at least one season
+ever_top4 <- df %>%
+    filter(position <= 4) %>%
+    distinct(team) %>%
+    pull(team)
+
+# Keep all seasons for those teams, flag top-4 status per row
+df_animated <- df %>%
+    filter(team %in% ever_top4) %>%
+    mutate(
+        in_top4     = position <= 4,
+        point_alpha = if_else(in_top4, 0.85, 0),
+        label_alpha = if_else(in_top4, 1.0,  0)
+    )
+
+# Reference subset for axis limits (keeps the view focused on top-4 range)
+df_top4 <- df_animated %>% filter(in_top4)
+```
+
+# 3. The base ggplot chart
+
+```{r base chart}
+animated_plot <- ggplot(df_animated, aes(x = avg_progressive_passes,
+                                         y = avg_possession_rate,
+                                         color = league,
+                                         group = team)) +
+
+    # Scatterplot points — alpha driven by top-4 status
+    geom_point(aes(alpha = point_alpha), size = 3) +
+
+    # Team text labels — also fade with dots
+    geom_text(aes(label = team, alpha = label_alpha),
+              nudge_y = 1.8,
+              size = 2.2,
+              family = "sans",
+              check_overlap = FALSE,
+              show.legend = FALSE) +
+
+    # Treat alpha values as literal (0 = invisible, 0.85 = visible)
+    scale_alpha_identity() +
+
+    # Top Right Label ("Possession-based")
+    annotate("text", x = Inf, y = Inf, label = "Possession-based",
+             hjust = 1.05, vjust = 1.5, size = 6,
+             family = "sans", fontface = "bold", color = "grey70", alpha = 0.8) +
+
+    # Bottom Left Label ("Counter-attacking")
+    annotate("text", x = -Inf, y = -Inf, label = "Counter-attacking",
+             hjust = -0.05, vjust = -0.5, size = 6,
+             family = "sans", fontface = "bold", color = "grey70", alpha = 0.8) +
+
+    scale_color_brewer(palette = "Set1") +
+    theme_minimal(base_size = 14) +
+    theme(
+        text = element_text(family = "sans"),
+        legend.position = "right",
+        plot.title = element_text(face = "bold", size = 18),
+        plot.subtitle = element_text(color = "grey30", size = 15, face = "italic"),
+        panel.grid.minor = element_blank()
+    ) +
+
+    # Axis limits anchored to the top-4 data range
+    coord_cartesian(
+        xlim = c(min(df_top4$avg_progressive_passes, na.rm=TRUE) - 2,
+                 max(df_top4$avg_progressive_passes, na.rm=TRUE) + 2),
+        ylim = c(min(df_top4$avg_possession_rate, na.rm=TRUE) - 2,
+                 max(df_top4$avg_possession_rate, na.rm=TRUE) + 4)
+    ) +
+
+    labs(
+        title = 'Tactical Evolution: Top 4 Teams across Europe',
+        subtitle = 'Season: {closest_state}',
+        x = 'Average Progressive Passes per Match',
+        y = 'Average Possession Rate (%)',
+        color = 'League',
+        caption = "Source: premier_league"
+    ) +
+
+    # Motion logic — gganimate now interpolates both position AND alpha
+    transition_states(
+        states = season,
+        transition_length = 1,
+        state_length = 1,
+        wrap = FALSE
+    ) +
+
+    # Fade for teams that only appear in the very first/last season
+    enter_fade() +
+    exit_fade()
+
+```
+
+# 4. The animation
+
+```{r animation}
+output_gif <- "output/tactical_evolution_top4.gif"
+
+animate(
+    animated_plot,
+    nframes = 580,
+    fps = 20,
+    width = 900,
+    height = 650,
+    units = "px",
+    res = 150,
+    end_pause = 60,
+    renderer = gifski_renderer(output_gif)
+)
+
+```
+
+We can see that there is variety in terms of playstyle across the top four teams in each major European league, so there is no **exceptionally dominant** playstyle per se and we should be happy to see that football is ever-evolving! Also interestingly, we can see teams that have made significant playstyle shifts (i.e. Newcastle and Bayer Leverkusen).
